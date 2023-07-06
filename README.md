@@ -1,27 +1,24 @@
-# Employee Database
-
-Conducted a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
-
-Designed tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data. In other words, performed the following:
+# Employee_Database
+Designed tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data.
 
 1. Data Modeling
 2. Data Engineering
 3. Data Analysis
 
 
-## Data Modeling
+# Data Modeling
 
 Inspected the CSVs and sketched out an ERD of the tables using QuickDBD.
 
 ![ERD](Employee_DB/Employee_ERD.PNG) 
 
-## Data Engineering
+# Data Engineering
 
 * Created a table schema for each of the six CSV files and specified data types, primary keys, foreign keys, and other constraints.
 * Imported each CSV file into the corresponding SQL table.
 
 
-## Data Analysis
+# Data Analysis
 
 After the database was completed, the following was completed:
 
